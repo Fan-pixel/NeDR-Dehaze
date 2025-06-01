@@ -11,8 +11,8 @@ Preparation
 ### Clone the repo
 
 ```sh
-git clone https://github.com/Fan-pixel/UR2P-Dehaze.git
-cd UR2P-Dehaze
+git clone https://github.com/Fan-pixel/NeDR-Dehaze.git
+cd NeDR-Dehaze
 ```
 
 ## Install
