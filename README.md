@@ -15,7 +15,7 @@ git clone https://github.com/Fan-pixel/NeDR-Dehaze.git
 cd NeDR-Dehaze
 ```
 
-## Install
+## 💻 Install
 ![Python 3.7](https://img.shields.io/badge/python-3.7-g) ![pytorch 2.1.2](https://img.shields.io/badge/pytorch-2.1.2-blue.svg)
 
 
