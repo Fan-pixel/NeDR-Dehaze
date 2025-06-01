@@ -12,5 +12,16 @@ We used [SOTS-indoor](https://sites.google.com/view/reside-dehaze-datasets/resid
 
 For training, we used [ITS](https://sites.google.com/view/reside-dehaze-datasets/reside-standard) dataset, you can follow the operations above to generate the training file lists.
 
+## Training and Test
+Training
+You can modify the training settings for each experiment in the 'configs.yml'. Then run the following script to train the model：
+```
+CUDA_VISIBLE_DEVICES=xxxx python train.py --model （Model class） --checkpoints （Training sample address）
+```
+Testing
+Run the following script to test the trained model：
+```
+CUDA_VISIBLE_DEVICES=XXX python test.py --model （Model class） --checkpoints （Test sample address）
+
 ## Contact
 If you have any questions, please contact the email Fansb@stu.cqut.edu.cn
