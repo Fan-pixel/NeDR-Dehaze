@@ -43,8 +43,8 @@ CUDA_VISIBLE_DEVICES=XXX python test.py --model （Model class） --checkpoints 
 ```
 ## 📊 Results
 
-### Dehazing results on SOTS-Indoor
-<img src="images/indoor.png" width="80%">
+### Dehazing results on PhoneHazy
+<img src="PhoneHazy.png" width="100%">
 
 ## ✏️ Contact
 If you have any questions, please contact the email Fansb@stu.cqut.edu.cn
