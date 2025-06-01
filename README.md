@@ -6,6 +6,22 @@ Abstract
 
 <img src="Frame.png" width="80%">
 
+Preparation
+===========================
+### Clone the repo
+
+```sh
+git clone https://github.com/Fan-pixel/UR2P-Dehaze.git
+cd UR2P-Dehaze
+```
+
+## Install
+Python 3.7 + Pytorch, please refer 'environment.yml' for detiled requirments.
+You can create a new conda environment:
+```
+conda env create -f environment.yml
+```
+
 Datasets
 ===========================
 We used [SOTS-indoor](https://sites.google.com/view/reside-dehaze-datasets/reside-v0), [SOTS-outdoor](https://sites.google.com/view/reside-dehaze-datasets/reside-v0),[HSTS](https://sites.google.com/view/reside-dehaze-datasets/reside-v0)  and [I-HAZE](https://data.vision.ee.ethz.ch/cvl/ntire18//i-haze/) for testing. In addition, we also conducted tests on real-world datasets, including PhoneHazy, O-HAZE, and NH-Haze.
