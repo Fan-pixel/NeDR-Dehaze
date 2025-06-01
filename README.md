@@ -6,5 +6,11 @@ Abstract
 
 <img src="Frame.png" width="80%">
 
+Datasets
+===========================
+We used [SOTS-indoor](https://sites.google.com/view/reside-dehaze-datasets/reside-v0), [SOTS-outdoor](https://sites.google.com/view/reside-dehaze-datasets/reside-v0),[HSTS](https://sites.google.com/view/reside-dehaze-datasets/reside-v0)  and [I-HAZE](https://data.vision.ee.ethz.ch/cvl/ntire18//i-haze/) for testing.  
+
+For training, we used [ITS](https://sites.google.com/view/reside-dehaze-datasets/reside-standard) dataset, you can follow the operations above to generate the training file lists.
+
 ## Contact
 If you have any questions, please contact the email Fansb@stu.cqut.edu.cn
