@@ -16,8 +16,9 @@ cd UR2P-Dehaze
 ```
 
 ## Install
-![Python 3.7](https://img.shields.io/badge/python-3.7-g) ![pytorch 2.2.2](https://img.shields.io/badge/pytorch-2.2.2-blue.svg)
-Python 3.7 + Pytorch, please refer 'environment.yml' for detiled requirments.
+![Python 3.7](https://img.shields.io/badge/python-3.7-g) ![pytorch 2.1.2](https://img.shields.io/badge/pytorch-2.1.2-blue.svg)
+
+
 You can create a new conda environment:
 ```
 conda env create -f environment.yml
