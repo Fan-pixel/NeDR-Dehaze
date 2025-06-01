@@ -22,6 +22,7 @@ Testing
 Run the following script to test the trained model：
 ```
 CUDA_VISIBLE_DEVICES=XXX python test.py --model （Model class） --checkpoints （Test sample address）
+```
 
 ## Contact
 If you have any questions, please contact the email Fansb@stu.cqut.edu.cn
