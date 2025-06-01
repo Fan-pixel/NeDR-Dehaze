@@ -31,6 +31,9 @@ We used [SOTS-indoor](https://sites.google.com/view/reside-dehaze-datasets/resid
 For training, we used [ITS](https://sites.google.com/view/reside-dehaze-datasets/reside-standard) dataset, you can follow the operations above to generate the training file lists.
 
 ## 🚀 Training and Test
+> 🔧 **Coming soon!**
+The pre-trained weights of our model will be released soon.
+
 Training
 You can modify the training settings for each experiment in the 'configs.yml'. Then run the following script to train the model：
 ```
