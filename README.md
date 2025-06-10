@@ -44,7 +44,7 @@ Run the following script to test the trained model：
 ```
 CUDA_VISIBLE_DEVICES=XXX python test.py --model （Model class） --checkpoints （Test sample address）
 ```
-Such as SOTS-indoor，SOTS-outdoor, O-HAZE, NH-Haze test datasets， you can download the pretrained models on [Training weight](https://pan.baidu.com/s/1U5MC8opWmwM1IVvtXsAx-Q)(7jep).
+Such as SOTS-indoor，SOTS-outdoor, O-HAZE, NH-Haze, HSTS test datasets， you can download the pretrained models on [Training weight](https://pan.baidu.com/s/1U5MC8opWmwM1IVvtXsAx-Q)(7jep).
 ## 📊 Results
 
 ### Dehazing results on PhoneHazy
